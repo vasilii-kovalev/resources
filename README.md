@@ -1,2 +1,13 @@
-# resources
-Collection of useful internet resources
+# Useful internet resources
+
+## Programming
+
+### General
+
+#### Information
+
+### Web
+
+#### Information
+
+#### Tools
